@@ -12,3 +12,7 @@
     <img src= "https://img.shields.io/badge/gmail-gray?style=for-the-badge&logo=gmail&logo-color=white" alt='gmail'/>
   </a>
 </div>
+
+<div id=badges align='center'>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
